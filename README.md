@@ -92,16 +92,14 @@ const eko = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EkoPrasetyoAdiNugroho&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="100%" alt="trophies" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=EkoPrasetyoAdiNugroho&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=06D6A0&icon_color=FFD166&text_color=e6edf3&ring_color=06D6A0" height="170" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkoPrasetyoAdiNugroho&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=06D6A0&text_color=e6edf3" height="170" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=EkoPrasetyoAdiNugroho&hide_border=true&background=0d1117&ring=06D6A0&fire=FFD166&currStreakLabel=06D6A0&sideLabels=e6edf3&currStreakNum=FFD166&sideNums=e6edf3&dates=8b949e&stroke=06D6A0" height="170" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EkoPrasetyoAdiNugroho&bg_color=0d1117&color=06D6A0&line=FFD166&point=e6edf3&area=true&hide_border=true" width="100%" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/main/assets/stats.svg" width="100%" alt="scoreboard — total contributions, current & longest streak, stars, repos, followers, and language loadout" />
 
 </div>
+
+<!--
+  MINI-GAME — snake.exe
+  The snake contribution game lights up once the `snake.yml` Action is enabled
+  (needs the one-time `workflow` authorization). It renders to the `output` branch.
 
 ## <samp>&#9654; MINI-GAME — snake.exe</samp>
 
@@ -113,7 +111,10 @@ const eko = {
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/output/snake.svg" />
 </picture>
 
-<br/><br/>
+</div>
+-->
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/main/assets/footer.svg" width="100%" alt="thanks for playing — insert coin to continue" />
 
