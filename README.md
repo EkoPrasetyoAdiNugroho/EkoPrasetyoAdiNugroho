@@ -96,25 +96,13 @@ const eko = {
 
 </div>
 
-<!--
-  MINI-GAME — snake.exe
-  The snake contribution game lights up once the `snake.yml` Action is enabled
-  (needs the one-time `workflow` authorization). It renders to the `output` branch.
-
 ## <samp>&#9654; MINI-GAME — snake.exe</samp>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/output/snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/output/snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/main/assets/contrib-game.svg" width="100%" alt="snake eating my GitHub contribution graph" />
 
-</div>
--->
-
-<div align="center">
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/EkoPrasetyoAdiNugroho/EkoPrasetyoAdiNugroho/main/assets/footer.svg" width="100%" alt="thanks for playing — insert coin to continue" />
 
