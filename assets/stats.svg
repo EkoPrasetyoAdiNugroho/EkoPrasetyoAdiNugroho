@@ -26,7 +26,7 @@
     <rect x="252" y="78" width="196" height="92" rx="7" fill="#0d1117" stroke="#1b2330"/>
     <rect x="252" y="78" width="5" height="92" rx="2" fill="#FFD166"/>
     <text class="t" x="274" y="108" font-size="12" fill="#8b949e">&#9632; now</text>
-    <text class="t b" x="274" y="140" font-size="30" fill="#e6edf3">1d</text>
+    <text class="t b" x="274" y="140" font-size="30" fill="#e6edf3">0d</text>
     <text class="t" x="274" y="160" font-size="11" fill="#FFD166" letter-spacing="1">CURRENT STREAK</text>
   </g>
 
